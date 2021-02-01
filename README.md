@@ -16,9 +16,9 @@ The Chicago and New York City files also have the following two columns:
 - Birth Year
 
 ### Stats
-Chicago, New York City, and Washington have an interesting variety of decriptive statistics in terms of bike sharing, and the script can uncover:
+Chicago, New York City, and Washington have an interesting variety of descriptive statistics in terms of bike sharing, and the script can uncover:
 - Popular travel times, for example: common months or days of the week
-- Populat stations and trips, for example: common start stations or common trip end to end 
+- Popular stations and trips, for example: common start stations or common trip end to end 
 
 
 
