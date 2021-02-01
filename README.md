@@ -23,4 +23,4 @@ Chicago, New York City, and Washington have an interesting variety of descriptiv
 
 
 ### Files used
-Data set provided are not in this repository as they are rather large
+Data set provided are not in this repository as they are rather large.
